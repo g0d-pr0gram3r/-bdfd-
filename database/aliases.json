@@ -1,7 +1,4 @@
 {
-  "pt-BR/utilidade/ping": [
-    "pong",
-    "ms",
-    "ping"
-  ]
+  "pt-BR/utilidade/ping": ["pong", "ms", "ping"],
+"pt-BR/utilidade/invite": ["invite", "convite", "convidar"]
 }
